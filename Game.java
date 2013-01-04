@@ -4,9 +4,10 @@ public class Game {
    
       System.out.println("This program is a simulation of a simple card game.");
       System.out.println();
-      
+      System.out.println("Dette er en ændring");
+      System.out.println("En til");
       Deck U = new Deck();
-      System.out.println();
+ 
       
       Player player01 = new Player();
       
