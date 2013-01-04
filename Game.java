@@ -8,7 +8,9 @@ public class Game {
       System.out.println("En til");
       Deck U = new Deck();
  
-      
+            System.out.println("En til");
+      System.out.println("En til");
+
       Player player01 = new Player();
       
 
